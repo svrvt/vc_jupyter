@@ -15,7 +15,8 @@
 !/.config/jupyter/lab/user-settings/@jupyterlab/extensionmanager-extension/plugin.jupyterlab-settings
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/vc_jupyter
+!/.config/mr/available.d/vc
+!/.config/mr/available.d/vc/vc_jupyter
 !/.gitignore.d
 !/.gitignore.d/vc_jupyter
 !/.local
